@@ -1,0 +1,11 @@
+{
+  "name": "cli-typing-test",
+  "version": "1.0.0",
+  "description": "Basic typing test for the command line",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
